@@ -1,0 +1,17 @@
+h1{
+  font-size: 4rem;
+}
+h2{
+  margin-bottom: 3rem;
+  text-align: center;
+  font-size: 3rem;
+}
+
+h3.card-header{
+  font-size: 1.3rem;
+}
+
+a.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+}
